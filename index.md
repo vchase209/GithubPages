@@ -4,15 +4,8 @@
 [Interests](#interests)
 
 **I am a senior at UCSD majoring in Computer Science**
-\
-\
-\
-\
-\
-\
-\
-\
 
+![Image](work.jpg)
 
 
 
@@ -32,15 +25,7 @@ I was a software engineering intern at Stack Sports
 - [x] HTML
 - [x] Docker 
 
-\
-\
-\
-\
-\
-\
-\
-\
-
+![Image](interests.png)
 ### Interests
 ```
 I'm interested in CS theory/Mathematics
