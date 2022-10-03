@@ -1,4 +1,4 @@
-![](https://img.freepik.com/free-vector/cute-cartoon-raccoon-sitting-white-background_1308-93890.jpg?w=2000)
+![Image](Raccoon.jpg)
 #**Vaughan Chase**\
 [Work Experience](#workexperience)\
 [Interests](#interests)
