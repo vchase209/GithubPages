@@ -1,9 +1,9 @@
 ![Image](Raccoon1.jpg)
-# **Vaughan Chase**\
+# Vaughan Chase\
 [Work Experience](#workexperience)\
 [Interests](#interests)
 
-I am a senior at UCSD majoring in Computer Science
+**I am a senior at UCSD majoring in Computer Science**
 \
 \
 \
