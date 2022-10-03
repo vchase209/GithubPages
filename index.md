@@ -20,7 +20,7 @@ I was a software engineering intern at Stack Sports
 2. Implicit data organization
 3. English syntax
 - Created website to query database using
-\
+
 - [x] SQL
 - [x] HTML
 - [x] Docker 
