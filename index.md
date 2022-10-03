@@ -1,3 +1,4 @@
+!(https://img.freepik.com/free-vector/brown-squirrel-white-background_1308-81654.jpg?w=2000)
 #**Vaughan Chase**\
 [Work Experience](#workexperience)\
 [Interests](#interests)
