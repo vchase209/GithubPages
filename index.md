@@ -12,11 +12,10 @@ I was a software engineering intern at Stack Sports
 1. Regular expressions, 
 2. Implicit data organization
 3. English syntax
-- Created website to query database
-Using
-[x] SQL
-[x] HTML
-[x] Docker 
+- Created website to query database using
+- [x] SQL
+- [x] HTML
+- [x] Docker 
 
 ### Interests
 ```
