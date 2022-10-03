@@ -1,10 +1,9 @@
 ![Image](Raccoon1.jpg)
-# **Vaughan Chase**\
+# Vaughan Chase\
 [Work Experience](#workexperience)\
 [Interests](#interests)
 
-I am a senior at UCSD majoring in Computer Science
-\
+**I am a senior at UCSD majoring in Computer Science**
 \
 \
 \
@@ -28,11 +27,11 @@ I was a software engineering intern at Stack Sports
 2. Implicit data organization
 3. English syntax
 - Created website to query database using
+\
 - [x] SQL
 - [x] HTML
 - [x] Docker 
 
-\
 \
 \
 \
