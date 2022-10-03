@@ -1,18 +1,18 @@
 ![Image](Raccoon1.jpg)
-#**Vaughan Chase**\
+# **Vaughan Chase**\
 [Work Experience](#workexperience)\
 [Interests](#interests)
 
 I am a senior at UCSD majoring in Computer Science
-
-
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 
 
@@ -32,15 +32,15 @@ I was a software engineering intern at Stack Sports
 - [x] HTML
 - [x] Docker 
 
-
-
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 ### Interests
 ```
@@ -48,8 +48,6 @@ I'm interested in CS theory/Mathematics
 I hope to be involved with the interplay of CS and Neuroscience
 I like playing fighting games and MOBAs
 ```
-
-[README](README.md)
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
