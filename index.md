@@ -1,8 +1,22 @@
-##**Vaughan Chase**
-[Work Experience](#workexperience)
+#**Vaughan Chase**\
+[Work Experience](#workexperience)\
 [Interests](#interests)
 
 I am a senior at UCSD majoring in Computer Science
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Work Experience
 I was a software engineering intern at Stack Sports 
 
@@ -16,6 +30,16 @@ I was a software engineering intern at Stack Sports
 - [x] SQL
 - [x] HTML
 - [x] Docker 
+
+
+
+
+
+
+
+
+
+
 
 ### Interests
 ```
