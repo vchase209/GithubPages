@@ -1,4 +1,4 @@
-![Image](Raccoon.jpg)
+![Image](Raccoon1.jpg)
 #**Vaughan Chase**\
 [Work Experience](#workexperience)\
 [Interests](#interests)
