@@ -1,5 +1,5 @@
 ![Image](Raccoon1.jpg)
-# Vaughan Chase\
+# Vaughan Chase
 [Work Experience](#workexperience)\
 [Interests](#interests)
 
